@@ -24,8 +24,8 @@ except:
     print("Try installing python-socksipy in debian-like distros")
     exit(0)
 
-__author__ = "alfred"
-__date__ = "$Jan 08, 2013$"
+__author__ = "AidynSkullz"
+__date__ = "$Oct 23, 2020$"
 
 # ---------- Start of user-configurable variables ----------------
 

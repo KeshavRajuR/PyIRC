@@ -1,0 +1,3 @@
+Creating the chat server: https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+Creating the chat client: https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/?completed=/server-chatroom-sockets-tutorial-python-3/
+https://github.com/alfred-gw/torirc
